@@ -13,6 +13,6 @@ C# ile veritabanı işlemlerinin daha kolay ve az kod ile yapılması amaçlanm�
 * Listele()
 
 ---
-#AÇIKLAMALAR
+# AÇIKLAMALAR
 
-##komutCalistir()
+## komutCalistir()
