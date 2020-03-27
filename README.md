@@ -13,7 +13,7 @@ C# ile veritabanı işlemlerinin daha kolay ve az kod ile yapılması amaçlanm�
 * [Listele()](#listele)
 
 ---
-# AÇIKLAMALAR VE KULLANIM ÖRNEKLERİ
+# Açıklamalar ve Kullanım Örnekleri
 
 ## Veritabanı Sınıfı
 
