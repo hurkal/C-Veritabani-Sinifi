@@ -3,16 +3,32 @@ C# ile veritabanı işlemlerinin daha kolay ve az kod ile yapılması amaçlanm�
 
 ## Veritabanı Sınıfı
 * [KomutCalistir()](#komutcalistir)
-* ProsedurCalistir()
-* SatirOku()
-* TabloCek()
-* TekVeriCek()
+* [ProsedurCalistir()](#prosedurcalistir)
+* [SatirOku()](#satiroku)
+* [TabloCek()](#tablocek)
+* [TekVeriCek()](#tekvericek)
 
 ## Parametre Sınıfı
-* Ekle()
-* Listele()
+* [Ekle()](#ekle)
+* [Listele()](#listele)
 
 ---
-# AÇIKLAMALAR
+# AÇIKLAMALAR VE KULLANIM ÖRNEKLERİ
 
-## komutCalistir()
+## Veritabanı Sınıfı
+
+### komutCalistir()
+
+### ProsedurCalistir()
+
+### SatirOku()
+
+### TabloCek()
+
+### TekVeriCek()
+
+## Parametre Sınıfı
+
+### Ekle()
+
+### Listele()
