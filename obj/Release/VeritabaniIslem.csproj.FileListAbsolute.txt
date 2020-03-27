@@ -1,0 +1,5 @@
+G:\protected\imkb\nesne tabanli programlama\Veritabanı Sınıfı\Ödev1+Veritabani+Parametre()+SP - Kopya\Veritabani\bin\Release\Veritabani.dll
+G:\protected\imkb\nesne tabanli programlama\Veritabanı Sınıfı\Ödev1+Veritabani+Parametre()+SP - Kopya\Veritabani\bin\Release\Veritabani.pdb
+G:\protected\imkb\nesne tabanli programlama\Veritabanı Sınıfı\Ödev1+Veritabani+Parametre()+SP - Kopya\Veritabani\obj\Release\VeritabaniIslem.csproj.CoreCompileInputs.cache
+G:\protected\imkb\nesne tabanli programlama\Veritabanı Sınıfı\Ödev1+Veritabani+Parametre()+SP - Kopya\Veritabani\obj\Release\Veritabani.dll
+G:\protected\imkb\nesne tabanli programlama\Veritabanı Sınıfı\Ödev1+Veritabani+Parametre()+SP - Kopya\Veritabani\obj\Release\Veritabani.pdb

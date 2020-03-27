@@ -1,0 +1,41 @@
+F:\protected\imkb\veritabanı\ÖDEV\VeritabanıÖdev\Ödev1\Veritabani\bin\Debug\Veritabani.dll
+F:\protected\imkb\veritabanı\ÖDEV\VeritabanıÖdev\Ödev1\Veritabani\bin\Debug\Veritabani.pdb
+F:\protected\imkb\veritabanı\ÖDEV\VeritabanıÖdev\Ödev1\Veritabani\obj\Debug\Veritabani.dll
+F:\protected\imkb\veritabanı\ÖDEV\VeritabanıÖdev\Ödev1\Veritabani\obj\Debug\Veritabani.pdb
+F:\protected\imkb\veritabanı\ÖDEV\VeritabanıÖdev\Ödev1\Veritabani\obj\Debug\VeritabaniIslem.csprojResolveAssemblyReference.cache
+E:\protected\imkb\veritabanı\ÖDEV\VeritabanıÖdev\Ödev1\Veritabani\bin\Debug\Veritabani.dll
+E:\protected\imkb\veritabanı\ÖDEV\VeritabanıÖdev\Ödev1\Veritabani\bin\Debug\Veritabani.pdb
+E:\protected\imkb\veritabanı\ÖDEV\VeritabanıÖdev\Ödev1\Veritabani\obj\Debug\VeritabaniIslem.csprojResolveAssemblyReference.cache
+E:\protected\imkb\veritabanı\ÖDEV\VeritabanıÖdev\Ödev1\Veritabani\obj\Debug\Veritabani.dll
+E:\protected\imkb\veritabanı\ÖDEV\VeritabanıÖdev\Ödev1\Veritabani\obj\Debug\Veritabani.pdb
+F:\protected\imkb\veritabanı\ÖDEV\VeritabanıÖdev\Ödev1+Veritabani()+Parametre()\Veritabani\bin\Debug\Veritabani.dll
+F:\protected\imkb\veritabanı\ÖDEV\VeritabanıÖdev\Ödev1+Veritabani()+Parametre()\Veritabani\bin\Debug\Veritabani.pdb
+F:\protected\imkb\veritabanı\ÖDEV\VeritabanıÖdev\Ödev1+Veritabani()+Parametre()\Veritabani\obj\Debug\VeritabaniIslem.csprojResolveAssemblyReference.cache
+F:\protected\imkb\veritabanı\ÖDEV\VeritabanıÖdev\Ödev1+Veritabani()+Parametre()\Veritabani\obj\Debug\Veritabani.dll
+F:\protected\imkb\veritabanı\ÖDEV\VeritabanıÖdev\Ödev1+Veritabani()+Parametre()\Veritabani\obj\Debug\Veritabani.pdb
+G:\protected\imkb\veritabanı\ÖDEV\VeritabanıÖdev\Ödev1+Veritabani()+Parametre()\Veritabani\bin\Debug\Veritabani.dll
+G:\protected\imkb\veritabanı\ÖDEV\VeritabanıÖdev\Ödev1+Veritabani()+Parametre()\Veritabani\bin\Debug\Veritabani.pdb
+G:\protected\imkb\veritabanı\ÖDEV\VeritabanıÖdev\Ödev1+Veritabani()+Parametre()\Veritabani\obj\Debug\VeritabaniIslem.csprojResolveAssemblyReference.cache
+G:\protected\imkb\veritabanı\ÖDEV\VeritabanıÖdev\Ödev1+Veritabani()+Parametre()\Veritabani\obj\Debug\Veritabani.dll
+G:\protected\imkb\veritabanı\ÖDEV\VeritabanıÖdev\Ödev1+Veritabani()+Parametre()\Veritabani\obj\Debug\Veritabani.pdb
+E:\protected\imkb\veritabanı\ÖDEV\VeritabanıÖdev\Ödev1+Veritabani()+Parametre()+SP\Veritabani\bin\Debug\Veritabani.dll
+E:\protected\imkb\veritabanı\ÖDEV\VeritabanıÖdev\Ödev1+Veritabani()+Parametre()+SP\Veritabani\bin\Debug\Veritabani.pdb
+E:\protected\imkb\veritabanı\ÖDEV\VeritabanıÖdev\Ödev1+Veritabani()+Parametre()+SP\Veritabani\obj\Debug\VeritabaniIslem.csprojResolveAssemblyReference.cache
+E:\protected\imkb\veritabanı\ÖDEV\VeritabanıÖdev\Ödev1+Veritabani()+Parametre()+SP\Veritabani\obj\Debug\Veritabani.dll
+E:\protected\imkb\veritabanı\ÖDEV\VeritabanıÖdev\Ödev1+Veritabani()+Parametre()+SP\Veritabani\obj\Debug\Veritabani.pdb
+F:\protected\imkb\veritabanı\ÖDEV\VeritabanıÖdev\Ödev1+Veritabani()+Parametre()+SP\Veritabani\bin\Debug\Veritabani.dll
+F:\protected\imkb\veritabanı\ÖDEV\VeritabanıÖdev\Ödev1+Veritabani()+Parametre()+SP\Veritabani\bin\Debug\Veritabani.pdb
+F:\protected\imkb\veritabanı\ÖDEV\VeritabanıÖdev\Ödev1+Veritabani()+Parametre()+SP\Veritabani\obj\Debug\VeritabaniIslem.csprojResolveAssemblyReference.cache
+F:\protected\imkb\veritabanı\ÖDEV\VeritabanıÖdev\Ödev1+Veritabani()+Parametre()+SP\Veritabani\obj\Debug\Veritabani.dll
+F:\protected\imkb\veritabanı\ÖDEV\VeritabanıÖdev\Ödev1+Veritabani()+Parametre()+SP\Veritabani\obj\Debug\Veritabani.pdb
+H:\protected\imkb\nesne tabanli programlama\Veritabanı Sınıfı\Ödev1+Veritabani()+Parametre()+SP\Veritabani\bin\Debug\Veritabani.dll
+H:\protected\imkb\nesne tabanli programlama\Veritabanı Sınıfı\Ödev1+Veritabani()+Parametre()+SP\Veritabani\bin\Debug\Veritabani.pdb
+H:\protected\imkb\nesne tabanli programlama\Veritabanı Sınıfı\Ödev1+Veritabani()+Parametre()+SP\Veritabani\obj\Debug\VeritabaniIslem.csproj.CoreCompileInputs.cache
+H:\protected\imkb\nesne tabanli programlama\Veritabanı Sınıfı\Ödev1+Veritabani()+Parametre()+SP\Veritabani\obj\Debug\Veritabani.dll
+H:\protected\imkb\nesne tabanli programlama\Veritabanı Sınıfı\Ödev1+Veritabani()+Parametre()+SP\Veritabani\obj\Debug\Veritabani.pdb
+G:\protected\imkb\nesne tabanli programlama\Veritabanı Sınıfı\Ödev1+Veritabani+Parametre()+SP - Kopya\Veritabani\bin\Debug\Veritabani.dll
+G:\protected\imkb\nesne tabanli programlama\Veritabanı Sınıfı\Ödev1+Veritabani+Parametre()+SP - Kopya\Veritabani\bin\Debug\Veritabani.pdb
+G:\protected\imkb\nesne tabanli programlama\Veritabanı Sınıfı\Ödev1+Veritabani+Parametre()+SP - Kopya\Veritabani\obj\Debug\VeritabaniIslem.csprojAssemblyReference.cache
+G:\protected\imkb\nesne tabanli programlama\Veritabanı Sınıfı\Ödev1+Veritabani+Parametre()+SP - Kopya\Veritabani\obj\Debug\VeritabaniIslem.csproj.CoreCompileInputs.cache
+G:\protected\imkb\nesne tabanli programlama\Veritabanı Sınıfı\Ödev1+Veritabani+Parametre()+SP - Kopya\Veritabani\obj\Debug\Veritabani.dll
+G:\protected\imkb\nesne tabanli programlama\Veritabanı Sınıfı\Ödev1+Veritabani+Parametre()+SP - Kopya\Veritabani\obj\Debug\Veritabani.pdb
